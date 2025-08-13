@@ -1,4 +1,6 @@
-# Master Thesis 2025
+# Master Thesis 2025 - From predicting drug response in cancer cell lines to personalized oncology
+
+Simon PENELLE
 
 📄 [Download the full thesis (PDF)](penelle_master-thesis_2025.pdf)
 
