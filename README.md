@@ -28,5 +28,7 @@ evaluate the performance of deep learning–based structural predictors in a
 multi-omics drug discovery context, and to determine to what extent these
 approaches can contribute to identifying, in silico, cancer cell lines that are sensitive
 or resistant to therapy.
-Keywords: Bioinformatics, Structural biology, Personalized oncology, Multi-omics,
+
+
+**Keywords:** Bioinformatics, Structural biology, Personalized oncology, Multi-omics,
 BRAF mutations, Protein-ligand interaction, GDSC dataset, Deep learning
